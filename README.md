@@ -1,2 +1,0 @@
-# Piloto
-Primeiro repositório
